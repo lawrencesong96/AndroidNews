@@ -1,4 +1,4 @@
-# AndroidNews
+# Android_News
 Personalized News Recommendation App with Android
 
 • Designed the Instagram Flavor News app based on Google Component Architectural MVVM Pattern
